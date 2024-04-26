@@ -92,7 +92,7 @@ DVC
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 533267231738.dkr.ecr.eu-north-1.amazonaws.com/chest
+    - Save the URI: 533267231738.dkr.ecr.us-east-1.amazonaws.com/chest
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
